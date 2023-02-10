@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  .subsideBar{
+    height: 100vh;
+    width: 50px;
+    background-color: rgb(6, 12, 49);
+  }

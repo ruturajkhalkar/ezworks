@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.navbar{
+  display: flex;
+    height:40px;
+    width: 100%;
+    border-color: rgb(177, 172, 172);
+    border-width: 1px;
+    border-style: ridge;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+  }
+  .icon{
+   padding-left: 10px;
+   font-size: 30px;
+  }
+  .subNav1{
+     display: flex;
+     align-items: center;
+    }
+  .subNav2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    }
